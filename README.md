@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mridul+Singh+Saklani!;Full-Stack+%26+AI/ML+Developer;MERN+%26+MEAN+Stack+Specialist;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
+</p>
 
-<!--
-**mridulsaklani/mridulsaklani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Hacker GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="hacker coding gif"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me  
+🚀 Skilled **MERN / MEAN Stack & AI/ML Developer** passionate about creating scalable applications and intelligent systems.  
+💡 Always exploring **cutting-edge technologies** and pushing limits of innovation.  
+
+- 🌐 Full-Stack Web Development (MERN & MEAN)  
+- ⚡ AI/ML & Deep Learning (PyTorch, TensorFlow, Keras, NumPy, SciPy)  
+- 🛠 Backend APIs with **Node.js, Express.js, FastAPI**  
+- 🗄 Databases: **MongoDB, PostgreSQL**  
+- 🎨 Frontend Frameworks: **React.js, Next.js, Angular, TypeScript**  
+- ⚡ Hacker Mindset: Problem solver, fast learner, builder  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,mongodb,postgres,python,fastapi,tensorflow,pytorch,git,github,vscode" />
+</p>
+
+---
+
+## ⚡ GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mridulsaklani&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsaklani&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🕶 Hacker Vibe  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" alt="hacker matrix gif"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/mridulsaklani"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⚡ "Code. Learn. Build. Hack. Repeat." ⚡</p>
