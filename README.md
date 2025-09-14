@@ -61,7 +61,7 @@
 
 <p align="center">⚡ "Code. Learn. Build. Hack. Repeat." ⚡</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="matrix" />
+  <img src="https://i.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" alt="matrix rain"/>
 </p>
 
 <p align="center">
