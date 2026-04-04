@@ -71,7 +71,8 @@
 <ul>
   <li><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank"> Attention is all you need </a></li>
   <li><a href="https://tiktokenizer.chatgptcn.com" target="_blank"> Tokenization </a></li>
-  <li><a href="https://projector.tensorflow.org" target="_blank"> Vector Ambeddings </a></li>
+  <li><a href="https://www.ibm.com/think/topics/vector-embedding" target="_blank"> Vector Ambeddings </a></li>
+  <li><a href="https://projector.tensorflow.org" target="_blank"> Vector Ambeddings Visual</a></li>
   <li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation" target="_blank"> RAG </a></li>
 </ul>
 
