@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FF00&center=true&vCenter=true&width=820&lines=One%20day%20I%27ll%20be%20gone%20%E2%80%94%20but%20my%20code%20will%20keep%20running;whispering%20my%20existence%20to%20future%20generations..." alt="Typing quote" />
 </p>
-<h3> Improtant things</h3>
+<h3>By the way, some improtant things</h3>
 <ul>
   <li><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank"> Attention is all you need </a></li>
   <li><a href="https://tiktokenizer.chatgptcn.com" target="_blank"> Tokenization </a></li>
