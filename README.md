@@ -116,6 +116,7 @@
   <li><a href="https://projector.tensorflow.org" target="_blank">📊 Vector Embeddings Visualizer</a></li>
   <li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation" target="_blank">🔍 Retrieval-Augmented Generation (RAG)</a></li>
   <li><a href="https://poloclub.github.io/transformer-explainer/" target="_blank">🔍How Transformer Works</a></li>
+  <li><a href="https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf" target="_blank">🔍AI Finger Prints</a></li>
 </ul>
 
 ---
