@@ -118,6 +118,7 @@
   <li><a href="https://poloclub.github.io/transformer-explainer/" target="_blank">🔍How Transformer Works</a></li>
   <li><a href="https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf" target="_blank">🔍AI Finger Prints</a></li>
   <li><a href="https://www.eliassi.org/turing-mind-1950.pdf" target="_blank">🔍Psychology and Philosophy </a></li>
+  <li><a href="https://arxiv.org/pdf/2602.23643" target="_blank">🔍AI Must Embrace Specialization via Superhuman Adaptable Intelligence </a></li>
 </ul>
 
 ---
