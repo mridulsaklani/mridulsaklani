@@ -99,13 +99,6 @@
 
 ---
 
-## 🕶 Hacker Vibe
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" alt="hacker matrix gif"/>
-</p>
-
----
 
 ## 📚 Foundational Reads (My AI Learning Trail)
 
