@@ -131,14 +131,4 @@
   <a href="https://github.com/mridulsaklani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-<p align="center">⚡ "Code. Learn. Build. Hack. Deploy. Repeat." ⚡</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" alt="matrix rain"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00FF00&center=true&vCenter=true&width=850&lines=One%20day%20I%27ll%20be%20gone%20%E2%80%94%20but%20my%20code%20will%20keep%20running;whispering%20my%20existence%20to%20future%20generations..." alt="Typing quote" />
-</p>
