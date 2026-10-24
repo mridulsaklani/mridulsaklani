@@ -117,6 +117,112 @@
 
 </ul>
 
+📚 AI & Machine Learning — Learning Resource Hub
+A collection of resources for learning machine learning, deep learning, LLMs, RAG, AI agents, MCP, and production AI engineering. Organised by format so you can jump straight to what you need.
+
+Suggested path: ML Foundations → Deep Learning → Transformers & LLMs → RAG → AI Agents & MCP → Evaluation & Production
+<details open>
+<summary><strong>🧠 Foundational Reads & Interactive Tools (11)</strong></summary>
+
+1. Attention Is All You Need — Transformer Research Paper
+2. Tokenization Explained — Interactive Tokenizer
+3. Vector Embeddings — IBM Explainer
+4. Embedding Projector — TensorFlow
+5. Retrieval-Augmented Generation (RAG) — AWS
+6. Transformer Explainer — Interactive Visualisation
+7. A Watermark for Large Language Models — AI-Generated Text Watermarking
+8. Computing Machinery and Intelligence — Alan Turing (1950)
+9. AI Must Embrace Specialization via Superhuman Adaptable Intelligence
+10. System Design, Vol. 1 — Alex Xu (shared link)
+11. System Design, Vol. 2 — Alex Xu (shared link)
+</details>
+
+<details>
+<summary><strong>🎥 Videos & Playlists (8)</strong></summary>
+
+1. LLM Introduction
+2. LLMs from Scratch
+3. Agentic AI Overview — Stanford
+4. Building & Evaluating Agents
+5. Building Effective Agents
+6. Building Agents with MCP
+7. Building an Agent from Scratch
+8. Philo Agents — Playlist
+</details>
+
+<details>
+<summary><strong>💻 GitHub Repositories (10)</strong></summary>
+
+1. GenAI Agents — NirDiamant
+2. AI Agents for Beginners — Microsoft
+3. Prompt Engineering Guide — DAIR.AI
+4. Hands-On Large Language Models
+5. Made With ML — Goku Mohandas
+6. Hands-On AI Engineering
+7. Awesome Generative AI Guide
+8. Designing Machine Learning Systems — Chip Huyen
+9. Machine Learning for Beginners — Microsoft
+10. LLM Course — Maxime Labonne
+</details>
+
+<details>
+<summary><strong>📖 Practical Guides & Whitepapers (5)</strong></summary>
+
+1. Google — Agents Whitepaper
+2. Google — Agent Companion
+3. Anthropic — Building Effective Agents
+4. Claude Code — Agentic Coding Best Practices
+5. OpenAI — A Practical Guide to Building Agents (PDF)
+</details>
+
+<details>
+<summary><strong>📚 Books (7)</strong></summary>
+
+1. Understanding Deep Learning
+2. Build a Large Language Model (From Scratch)
+3. LLM Engineer's Handbook
+4. AI Agents: The Definitive Guide
+5. Building Applications with AI Agents
+6. AI Agents with MCP
+7. AI Engineering
+</details>
+
+<details>
+<summary><strong>🔬 Research Papers (4)</strong></summary>
+
+1. ReAct — Synergizing Reasoning and Acting in Language Models
+2. Generative Agents — Interactive Simulacra of Human Behavior
+3. Toolformer — Language Models Can Teach Themselves to Use Tools
+4. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+</details>
+
+<details>
+<summary><strong>🎓 Courses & Professional Certificates (15)</strong></summary>
+
+Data Analytics & Business Intelligence
+1. Meta Data Analyst Professional Certificate
+2. Google Advanced Data Analytics Professional Certificate
+3. Microsoft Power BI Data Analyst Professional Certificate
+4. Google Data Analytics Professional Certificate
+5. Introduction to Data Analytics
+Machine Learning, Deep Learning & Python
+6. Machine Learning Specialization
+7. IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate
+8. Deep Learning Specialization
+9. Crash Course on Python
+10. Python for Data Science, AI & Development
+Excel, AI-Assisted Analysis & SQL
+11. ChatGPT + Excel: AI-Enhanced Data Analysis & Insight Specialization
+12. Work Smarter with Microsoft Excel
+13. Microsoft Excel Professional Certificate
+14. Excel Basics for Data Analysis
+15. SQL Foundations
+ℹ️ Course links are retained from the shared source list and use tracking/redirect URLs. Check the destination provider, current availability, and pricing before enrolling.
+
+</details>
+
+<sub>Resources are shared for educational discovery. Credit belongs to their respective authors, researchers, educators and maintainers. This collection was inspired by a resource roundup shared by Mohiniuni.</sub>
+
 ---
 
 ## 📫 Connect With Me
