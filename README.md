@@ -11,8 +11,6 @@
 ---
 
 
----
-
 ## 👨‍💻 About Me
 
 🚀 **Full-Stack & AI/ML Engineer** building scalable applications, intelligent systems, and cloud-native architectures.
