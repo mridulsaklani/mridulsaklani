@@ -100,7 +100,8 @@
 ---
 
 
-## 📚 Foundational Reads (My AI Learning Trail)
+## 📚 Foundational Reads 
+
 
 <ul>
   <li><a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf" target="_blank">📄 Attention Is All You Need</a></li>
@@ -108,123 +109,94 @@
   <li><a href="https://www.ibm.com/think/topics/vector-embedding" target="_blank">🧩 Vector Embeddings</a></li>
   <li><a href="https://projector.tensorflow.org" target="_blank">📊 Vector Embeddings Visualizer</a></li>
   <li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation" target="_blank">🔍 Retrieval-Augmented Generation (RAG)</a></li>
-  <li><a href="https://poloclub.github.io/transformer-explainer/" target="_blank">🔍How Transformer Works</a></li>
-  <li><a href="https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf" target="_blank">🔍AI Finger Prints</a></li>
-  <li><a href="https://www.eliassi.org/turing-mind-1950.pdf" target="_blank">🔍Psychology and Philosophy </a></li>
-  <li><a href="https://arxiv.org/pdf/2602.23643" target="_blank">🔍AI Must Embrace Specialization via Superhuman Adaptable Intelligence </a></li>
-  <li><a href="https://drive.google.com/file/d/1Vue9cWJEIl46_ocpQbbcsLRUb97Yms6G/view?usp=sharing" target="_blank">🔍 System Design vol 1 | Alex Xu </a></li>
-  <li><a href="https://drive.google.com/file/d/1QVV4ZbUl5TOBJo_wLIABAIds2onlF24D/view?usp=sharing" target="_blank">🔍 System Design vol 2 | Alex Xu </a></li>
-
+  <li><a href="https://poloclub.github.io/transformer-explainer/" target="_blank">🧠 How Transformers Work</a></li>
+  <li><a href="https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf" target="_blank">📄 AI Fingerprints — Watermarking for LLMs</a></li>
+  <li><a href="https://www.eliassi.org/turing-mind-1950.pdf" target="_blank">📄 Computing Machinery and Intelligence — Alan Turing</a></li>
+  <li><a href="https://arxiv.org/pdf/2602.23643" target="_blank">📄 AI Must Embrace Specialization via Superhuman Adaptable Intelligence</a></li>
+  <li><a href="https://drive.google.com/file/d/1Vue9cWJEIl46_ocpQbbcsLRUb97Yms6G/view?usp=sharing" target="_blank">📘 System Design Vol. 1 — Alex Xu</a></li>
+  <li><a href="https://drive.google.com/file/d/1QVV4ZbUl5TOBJo_wLIABAIds2onlF24D/view?usp=sharing" target="_blank">📘 System Design Vol. 2 — Alex Xu</a></li>
 </ul>
 
-📚 AI & Machine Learning — Learning Resource Hub
-A collection of resources for learning machine learning, deep learning, LLMs, RAG, AI agents, MCP, and production AI engineering. Organised by format so you can jump straight to what you need.
+### 🎥 AI / LLM / Agentic AI — Videos & Playlists
 
-Suggested path: ML Foundations → Deep Learning → Transformers & LLMs → RAG → AI Agents & MCP → Evaluation & Production
-<details open>
-<summary><strong>🧠 Foundational Reads & Interactive Tools (11)</strong></summary>
+<ul>
+  <li><a href="https://youtube.com/watch?v=zjkBMFhNj_g" target="_blank">🎬 Introduction to Large Language Models (LLMs)</a></li>
+  <li><a href="https://youtube.com/watch?v=9vM4p9NN0Ts" target="_blank">🎬 Building LLMs from Scratch</a></li>
+  <li><a href="https://youtube.com/watch?v=kJLiOGle3Lw" target="_blank">🎬 Agentic AI Overview — Stanford</a></li>
+  <li><a href="https://youtube.com/watch?v=d5EltXhbcfA" target="_blank">🎬 Building & Evaluating AI Agents</a></li>
+  <li><a href="https://youtube.com/watch?v=D7_ipDqhtwk" target="_blank">🎬 Building Effective AI Agents</a></li>
+  <li><a href="https://youtube.com/watch?v=kQmXtrmQ5Zg" target="_blank">🎬 Building AI Agents with MCP</a></li>
+  <li><a href="https://youtube.com/watch?v=xzXdLRUyjUg" target="_blank">🎬 Building an AI Agent from Scratch</a></li>
+  <li><a href="https://youtube.com/playlist?list=PLacQJwuclt_sV-tfZmpT1Ov6jldHl30NR" target="_blank">🎬 Philo Agents — Complete Playlist</a></li>
+</ul>
 
-1. Attention Is All You Need — Transformer Research Paper
-2. Tokenization Explained — Interactive Tokenizer
-3. Vector Embeddings — IBM Explainer
-4. Embedding Projector — TensorFlow
-5. Retrieval-Augmented Generation (RAG) — AWS
-6. Transformer Explainer — Interactive Visualisation
-7. A Watermark for Large Language Models — AI-Generated Text Watermarking
-8. Computing Machinery and Intelligence — Alan Turing (1950)
-9. AI Must Embrace Specialization via Superhuman Adaptable Intelligence
-10. System Design, Vol. 1 — Alex Xu (shared link)
-11. System Design, Vol. 2 — Alex Xu (shared link)
-</details>
+### 💻 GitHub Repositories — AI / ML / LLM Engineering
 
-<details>
-<summary><strong>🎥 Videos & Playlists (8)</strong></summary>
+<ul>
+  <li><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">🤖 GenAI Agents — Practical AI Agent Implementations</a></li>
+  <li><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">🤖 Microsoft — AI Agents for Beginners</a></li>
+  <li><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">🧠 Prompt Engineering Guide</a></li>
+  <li><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">📘 Hands-On Large Language Models</a></li>
+  <li><a href="https://github.com/GokuMohandas/Made-With-ML" target="_blank">⚙️ Made With ML — Production Machine Learning</a></li>
+  <li><a href="https://github.com/Sumanth077/Hands-On-AI-Engineering" target="_blank">🛠 Hands-On AI Engineering</a></li>
+  <li><a href="https://github.com/aishwaryanr/awesome-generative-ai-guide" target="_blank">🧬 Awesome Generative AI Guide</a></li>
+  <li><a href="https://github.com/chiphuyen/dmls-book" target="_blank">🏗 Designing Machine Learning Systems — Chip Huyen</a></li>
+  <li><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">📚 Microsoft — Machine Learning for Beginners</a></li>
+  <li><a href="https://github.com/mlabonne/llm-course" target="_blank">🚀 LLM Course — Maxime Labonne</a></li>
+</ul>
 
-1. LLM Introduction
-2. LLMs from Scratch
-3. Agentic AI Overview — Stanford
-4. Building & Evaluating Agents
-5. Building Effective Agents
-6. Building Agents with MCP
-7. Building an Agent from Scratch
-8. Philo Agents — Playlist
-</details>
+### 📑 AI Engineering Guides & Whitepapers
 
-<details>
-<summary><strong>💻 GitHub Repositories (10)</strong></summary>
+<ul>
+  <li><a href="https://kaggle.com/whitepaper-agents" target="_blank">📄 Google's AI Agents Whitepaper</a></li>
+  <li><a href="https://kaggle.com/whitepaper-agent-companion" target="_blank">📄 Google's AI Agents Companion Guide</a></li>
+  <li><a href="https://anthropic.com/engineering/building-effective-agents" target="_blank">🧠 Building Effective Agents — Anthropic</a></li>
+  <li><a href="https://code.claude.com/docs/en/best-practices" target="_blank">⚙️ Claude Code — Agentic Coding Best Practices</a></li>
+  <li><a href="https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf" target="_blank">🤖 A Practical Guide to Building Agents — OpenAI</a></li>
+</ul>
 
-1. GenAI Agents — NirDiamant
-2. AI Agents for Beginners — Microsoft
-3. Prompt Engineering Guide — DAIR.AI
-4. Hands-On Large Language Models
-5. Made With ML — Goku Mohandas
-6. Hands-On AI Engineering
-7. Awesome Generative AI Guide
-8. Designing Machine Learning Systems — Chip Huyen
-9. Machine Learning for Beginners — Microsoft
-10. LLM Course — Maxime Labonne
-</details>
+### 📚 AI / Deep Learning / LLM Engineering — Books
 
-<details>
-<summary><strong>📖 Practical Guides & Whitepapers (5)</strong></summary>
+<ul>
+  <li><a href="https://udlbook.github.io/udlbook/" target="_blank">📘 Understanding Deep Learning</a></li>
+  <li><a href="https://manning.com/books/build-a-large-language-model-from-scratch" target="_blank">📘 Build a Large Language Model (From Scratch)</a></li>
+  <li><a href="https://oreilly.com/library/view/llm-engineers-handbook/9781836200079/" target="_blank">📘 LLM Engineer's Handbook</a></li>
+  <li><a href="https://oreilly.com/library/view/ai-agents-the/0642572247775/" target="_blank">📘 AI Agents: The Definitive Guide</a></li>
+  <li><a href="https://oreilly.com/library/view/building-applications-with/9781098176495/" target="_blank">📘 Building Applications with AI Agents</a></li>
+  <li><a href="https://oreilly.com/library/view/ai-agents-with/9798341639546/" target="_blank">📘 AI Agents with MCP</a></li>
+  <li><a href="https://oreilly.com/library/view/ai-engineering/9781098166298/" target="_blank">📘 AI Engineering — Chip Huyen</a></li>
+</ul>
 
-1. Google — Agents Whitepaper
-2. Google — Agent Companion
-3. Anthropic — Building Effective Agents
-4. Claude Code — Agentic Coding Best Practices
-5. OpenAI — A Practical Guide to Building Agents (PDF)
-</details>
+### 🔬 AI / LLM — Research Papers
 
-<details>
-<summary><strong>📚 Books (7)</strong></summary>
+<ul>
+  <li><a href="https://arxiv.org/abs/2210.03629" target="_blank">📄 ReAct — Synergizing Reasoning and Acting in Language Models</a></li>
+  <li><a href="https://arxiv.org/abs/2304.03442" target="_blank">📄 Generative Agents — Interactive Simulacra of Human Behavior</a></li>
+  <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf" target="_blank">📄 Toolformer — Language Models Can Teach Themselves to Use Tools</a></li>
+  <li><a href="https://arxiv.org/pdf/2201.11903" target="_blank">📄 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a></li>
+</ul>
 
-1. Understanding Deep Learning
-2. Build a Large Language Model (From Scratch)
-3. LLM Engineer's Handbook
-4. AI Agents: The Definitive Guide
-5. Building Applications with AI Agents
-6. AI Agents with MCP
-7. AI Engineering
-</details>
+### 🎓 AI / ML / Data Science — Courses & Certifications
 
-<details>
-<summary><strong>🔬 Research Papers (4)</strong></summary>
-
-1. ReAct — Synergizing Reasoning and Acting in Language Models
-2. Generative Agents — Interactive Simulacra of Human Behavior
-3. Toolformer — Language Models Can Teach Themselves to Use Tools
-4. Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
-</details>
-
-<details>
-<summary><strong>🎓 Courses & Professional Certificates (15)</strong></summary>
-
-Data Analytics & Business Intelligence
-1. Meta Data Analyst Professional Certificate
-2. Google Advanced Data Analytics Professional Certificate
-3. Microsoft Power BI Data Analyst Professional Certificate
-4. Google Data Analytics Professional Certificate
-5. Introduction to Data Analytics
-Machine Learning, Deep Learning & Python
-6. Machine Learning Specialization
-7. IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate
-8. Deep Learning Specialization
-9. Crash Course on Python
-10. Python for Data Science, AI & Development
-Excel, AI-Assisted Analysis & SQL
-11. ChatGPT + Excel: AI-Enhanced Data Analysis & Insight Specialization
-12. Work Smarter with Microsoft Excel
-13. Microsoft Excel Professional Certificate
-14. Excel Basics for Data Analysis
-15. SQL Foundations
-ℹ️ Course links are retained from the shared source list and use tracking/redirect URLs. Check the destination provider, current availability, and pricing before enrolling.
-
-</details>
-
-<sub>Resources are shared for educational discovery. Credit belongs to their respective authors, researchers, educators and maintainers. This collection was inspired by a resource roundup shared by Mohiniuni.</sub>
+<ul>
+  <li><a href="https://imp.i384100.net/rENKMG" target="_blank">🎓 Meta Data Analyst Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/jR67bn" target="_blank">🎓 Google Advanced Data Analytics Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/PzdQx6" target="_blank">🎓 Microsoft Power BI Data Analyst Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/xJ6DQx" target="_blank">🎓 Google Data Analytics Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/5k0drn" target="_blank">📊 Introduction to Data Analytics</a></li>
+  <li><a href="https://imp.i384100.net/k42K6M" target="_blank">🤖 Machine Learning Specialization</a></li>
+  <li><a href="https://imp.i384100.net/enZ0zg" target="_blank">🧠 IBM Deep Learning with PyTorch, Keras and TensorFlow Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/qW6KMO" target="_blank">🧠 Deep Learning Specialization</a></li>
+  <li><a href="https://imp.i384100.net/QYd9Dz" target="_blank">🐍 Crash Course on Python</a></li>
+  <li><a href="https://imp.i384100.net/9Vd6kQ" target="_blank">🐍 Python for Data Science, AI & Development</a></li>
+  <li><a href="https://imp.i384100.net/rENKMB" target="_blank">📊 ChatGPT + Excel: AI-Enhanced Data Analysis & Insight Specialization</a></li>
+  <li><a href="https://imp.i384100.net/jR67ba" target="_blank">📊 Work Smarter with Microsoft Excel</a></li>
+  <li><a href="https://imp.i384100.net/PzdQxq" target="_blank">🎓 Microsoft Excel Professional Certificate</a></li>
+  <li><a href="https://imp.i384100.net/5k0drD" target="_blank">📊 Excel Basics for Data Analysis</a></li>
+  <li><a href="https://imp.i384100.net/k42K6v" target="_blank">🗄 SQL Foundations</a></li>
+</ul>
 
 ---
-
 ## 📫 Connect With Me
 
 <p align="center">
