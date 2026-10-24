@@ -196,6 +196,98 @@
   <li><a href="https://imp.i384100.net/k42K6v" target="_blank">🗄 SQL Foundations</a></li>
 </ul>
 
+
+
+## 🌐 Internet Rabbit Holes — Explore, Learn & Discover
+
+### 🌍 Live Earth, Weather & Global Monitoring
+
+<ul>
+  <li><a href="http://zoom.earth" target="_blank">🌍 Zoom Earth — Live Satellite Imagery & Weather Maps</a></li>
+  <li><a href="http://flightradar24.com" target="_blank">✈️ Flightradar24 — Real-Time Flight Tracking</a></li>
+  <li><a href="http://marinetraffic.com" target="_blank">🚢 MarineTraffic — Live Ship & Vessel Tracking</a></li>
+  <li><a href="http://windy.com" target="_blank">🌪️ Windy — Interactive Wind, Weather & Storm Maps</a></li>
+  <li><a href="http://lightningmaps.org" target="_blank">⚡ Lightning Maps — Real-Time Lightning Strike Tracking</a></li>
+  <li><a href="http://earthquake.usgs.gov" target="_blank">🌋 USGS Earthquakes — Global Earthquake Monitoring</a></li>
+  <li><a href="http://submarinecablemap.com" target="_blank">🌊 Submarine Cable Map — Explore the Undersea Internet Infrastructure</a></li>
+  <li><a href="http://globalforestwatch.org" target="_blank">🌳 Global Forest Watch — Satellite-Based Forest Monitoring</a></li>
+  <li><a href="http://worldometers.info" target="_blank">📊 Worldometer — Live Global Statistics</a></li>
+  <li><a href="http://internetlivestats.com" target="_blank">🌐 Internet Live Stats — Real-Time Internet Statistics</a></li>
+</ul>
+
+### 🗺️ Geography, Maps & Virtual World Exploration
+
+<ul>
+  <li><a href="http://thetruesize.com" target="_blank">🌍 The True Size — Compare the Actual Sizes of Countries</a></li>
+  <li><a href="http://oldmapsonline.org" target="_blank">🗺️ Old Maps Online — Explore Historical Maps</a></li>
+  <li><a href="http://davidrumsey.com" target="_blank">📜 David Rumsey Map Collection — Historical Cartography Archive</a></li>
+  <li><a href="http://openstreetmap.org" target="_blank">🌐 OpenStreetMap — Open-Source World Mapping</a></li>
+  <li><a href="http://window-swap.com" target="_blank">🪟 WindowSwap — Experience Views from Windows Around the World</a></li>
+  <li><a href="http://virtualvacation.us" target="_blank">🚶 Virtual Vacation — Explore Cities Through Virtual Walks</a></li>
+  <li><a href="http://mapcrunch.com" target="_blank">📍 MapCrunch — Discover Random Places on Earth</a></li>
+  <li><a href="http://atlasobscura.com" target="_blank">🌎 Atlas Obscura — Discover Unusual Places & Hidden Wonders</a></li>
+</ul>
+
+### 🔭 Astronomy, Physics & Scientific Exploration
+
+<ul>
+  <li><a href="http://neal.fun" target="_blank">🧠 Neal.fun — Interactive Science, Technology & Knowledge Experiences</a></li>
+  <li><a href="http://htwins.net/scale2" target="_blank">⚛️ The Scale of the Universe — Journey from Subatomic Particles to the Cosmos</a></li>
+  <li><a href="http://eyes.nasa.gov" target="_blank">🚀 NASA Eyes — Interactive 3D Solar System & Space Exploration</a></li>
+  <li><a href="http://stellarium-web.org" target="_blank">🌌 Stellarium Web — Interactive Night Sky & Star Maps</a></li>
+  <li><a href="http://apod.nasa.gov" target="_blank">🌠 NASA Astronomy Picture of the Day — Explore the Universe</a></li>
+  <li><a href="http://images.nasa.gov" target="_blank">🪐 NASA Image & Video Library — Space Photography Archive</a></li>
+  <li><a href="http://timeanddate.com" target="_blank">☀️ Time and Date — Astronomy, Time Zones, Solar & Lunar Events</a></li>
+  <li><a href="http://sciencedaily.com" target="_blank">🔬 ScienceDaily — Scientific Research News & Discoveries</a></li>
+  <li><a href="http://arxiv.org" target="_blank">📄 arXiv — Open Research Papers in Physics, Mathematics, Computer Science & AI</a></li>
+</ul>
+
+### 📊 Data Science, Statistics & Interactive Visualizations
+
+<ul>
+  <li><a href="http://pudding.cool" target="_blank">📊 The Pudding — Visual Storytelling Through Data</a></li>
+  <li><a href="http://ourworldindata.org" target="_blank">🌍 Our World in Data — Global Research, Data & Interactive Charts</a></li>
+  <li><a href="http://gapminder.org" target="_blank">📈 Gapminder — Explore Global Trends & Statistical Misconceptions</a></li>
+  <li><a href="http://informationisbeautiful.net" target="_blank">🧩 Information Is Beautiful — Data Visualization & Infographics</a></li>
+  <li><a href="http://data.worldbank.org" target="_blank">🌐 World Bank Open Data — Global Economic & Development Data</a></li>
+  <li><a href="http://data.tuik.gov.tr" target="_blank">📉 Turkish Statistical Institute — Official Statistics Database</a></li>
+  <li><a href="http://observablehq.com" target="_blank">💻 Observable — Interactive Data Visualization & Computational Notebooks</a></li>
+</ul>
+
+### 📚 Digital Libraries, Books & Historical Archives
+
+<ul>
+  <li><a href="http://archive.org" target="_blank">📚 Internet Archive — Digital Library of Books, Software, Movies & Web History</a></li>
+  <li><a href="http://gutenberg.org" target="_blank">📖 Project Gutenberg — Free Public-Domain eBooks</a></li>
+  <li><a href="http://openlibrary.org" target="_blank">📘 Open Library — Global Book Catalogue & Digital Lending</a></li>
+  <li><a href="http://loc.gov" target="_blank">🏛️ Library of Congress — Historical Documents & Digital Collections</a></li>
+  <li><a href="http://europeana.eu" target="_blank">🌍 Europeana — European Cultural Heritage & Digital Archives</a></li>
+  <li><a href="http://dp.la" target="_blank">📜 Digital Public Library of America — American Historical & Cultural Collections</a></li>
+  <li><a href="http://openculture.com" target="_blank">🎓 Open Culture — Free Educational Resources, Courses & Cultural Archives</a></li>
+</ul>
+
+### 🎨 Art, Museums & Cultural Heritage
+
+<ul>
+  <li><a href="http://artsandculture.google.com" target="_blank">🎨 Google Arts & Culture — Virtual Museum Tours & Cultural Experiences</a></li>
+  <li><a href="http://rijksmuseum.nl" target="_blank">🖼️ Rijksmuseum — Explore Historical Artworks & Digital Collections</a></li>
+  <li><a href="http://wikiart.org" target="_blank">🎭 WikiArt — Visual Art Encyclopedia & Painting Archive</a></li>
+  <li><a href="http://publicdomainreview.org" target="_blank">📜 The Public Domain Review — Forgotten Art, Literature & Historical Treasures</a></li>
+  <li><a href="http://metmuseum.org" target="_blank">🏛️ The Metropolitan Museum of Art — Global Art & Open-Access Collections</a></li>
+</ul>
+
+### 🎵 Music, Knowledge & Digital Curiosities
+
+<ul>
+  <li><a href="http://musicmap.info" target="_blank">🎸 Musicmap — Interactive Genealogy of Music Genres</a></li>
+  <li><a href="http://radiooooo.com" target="_blank">🎧 Radiooooo — Explore Music Across Countries & Decades</a></li>
+  <li><a href="http://listen.hatnote.com" target="_blank">🎶 Listen to Wikipedia — Real-Time Wikipedia Edits Converted into Sound</a></li>
+  <li><a href="http://wikipedia.org" target="_blank">🧠 Wikipedia — The Free Encyclopedia of Human Knowledge</a></li>
+</ul>
+
+
+
+
 ---
 ## 📫 Connect With Me
 
